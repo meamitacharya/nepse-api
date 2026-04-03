@@ -1,0 +1,5 @@
+fastapi==0.111.0
+uvicorn[standard]==0.30.1
+httpx==0.27.0
+pywasm==0.4.0
+git+https://github.com/basic-bgnr/NepseUnofficialApi.git
